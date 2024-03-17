@@ -9,6 +9,7 @@ public class program {
         //Exercicio05.executar();
         //Exercicio06.executar();
         //Exercicio07.executar();
-        Exercicio08.executar();
+        //Exercicio08.executar();
+        Exercicio09.executar();
     }
 }
